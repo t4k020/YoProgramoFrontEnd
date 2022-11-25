@@ -1,0 +1,44 @@
+body {
+
+    border: 1px solid rgb(0, 0, 0) ;
+  }
+
+#banner {
+    padding-bottom: 250px;
+}
+#perfil {
+    height: 100px;
+    width: 100px;
+    left: 200px;
+    top: 220px;
+    position: absolute;
+}
+
+#resumen {
+    height: 100px;
+}
+
+#resumen2 {
+    height: 50px;
+}
+
+#ExpLab {
+    height: 150px;
+}
+
+
+#Edu {
+    height: 250px;
+}
+
+#Hab {
+    height: 100px;
+}
+
+#Pro {
+    height: 150px;
+}
+
+#Foter {
+    height: 100px;
+}
