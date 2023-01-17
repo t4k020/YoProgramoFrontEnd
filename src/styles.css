@@ -1,0 +1,31 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    border: 1px solid rgb(0, 0, 0);
+  }
+  .bannerDiv {
+    position: relative;
+    padding: 0%;
+  }
+  
+  .banner {
+   
+    height: 100%;
+    width: 100%;
+    padding: 0%;
+  }
+  .no-padding {
+   
+    height: 100%;
+    width: 100%;
+    padding: 0%;
+  }
+  
+  #perfil {
+  height: 150px;
+  width: 150px;
+  top: 60%;
+  left: 5%;
+  position: absolute;
+  
+  }
+  
